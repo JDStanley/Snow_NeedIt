@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="70058d074fba03000ecf2d118110c7c5" sys_domain="global" table="x_106688_needit_needit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-07 07:49:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8058d074fba03000ecf2d118110c7c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_106688_needit_needit" name="x_106688_needit_needit" sys_domain="global" view="Default view">70058d074fba03000ecf2d118110c7c5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_106688_needit_needit" sys_domain="global" view="Default view">cb1d55b24ff203000ecf2d118110c7ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-07 07:49:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-07 07:49:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4058d074fba03000ecf2d118110c7c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_106688_needit_needit" name="x_106688_needit_needit" sys_domain="global" view="Default view">70058d074fba03000ecf2d118110c7c5</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_106688_needit_needit" sys_domain="global" view="Default view">30058d074fba03000ecf2d118110c7c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-07 07:49:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_106688_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-07 07:49:48</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70058d074fba03000ecf2d118110c7c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_106688_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_106688_needit">ca6691be4fb203000ecf2d118110c796</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">ca6691be4fb203000ecf2d118110c796</sys_scope>
+            <sys_update_name>sys_ui_form_sections_70058d074fba03000ecf2d118110c7c5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-07 07:49:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
